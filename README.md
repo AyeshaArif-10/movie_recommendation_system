@@ -108,6 +108,16 @@ Users can search for movies by title and explore matching results.
 ![Movie Search Results](screenshots/search.png)
 
 
+## 🚀 Live Demo
+
+Try ReelPicks here:
+
+**[Open ReelPicks – Movie Recommendation System](https://reelpick.streamlit.app/)**
+
+Explore trending movies, search for your favourite films, and discover similar movie recommendations.
+
+
+
 
 ## Author
 Ayesha Arif
