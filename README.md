@@ -61,7 +61,7 @@ movie-recommendation-system/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/AyeshaArif-10/movie_recommendation_system.git
 ```
 
 ### 2. Navigate to the project directory
@@ -93,6 +93,21 @@ The Streamlit frontend runs locally, while the FastAPI backend is deployed on Re
 * Enhance the user interface.
 * Explore advanced recommendation algorithms.
 
-## Author
+## Application Preview
 
+### Home Page
+
+The home page displays trending movies with posters, titles and release years.
+
+![ReelPicks Home Page](screenshots/home.png)
+
+### Movie Search
+
+Users can search for movies by title and explore matching results.
+
+![Movie Search Results](screenshots/search.png)
+
+
+
+## Author
 Ayesha Arif
